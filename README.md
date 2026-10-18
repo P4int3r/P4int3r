@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm P4int3r Welcome To My Github Profile!</h1>
 <h3 align="center">I enjoy learning Windows, PC performance, Coding and sharing my projects and personal stuff on GitHub.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4int3r&label=Profile%20views&color=0e75b6&style=flat" alt="p4int3r" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p4int3r" alt="p4int3r" /></a> </p>
 
 - 🔭 I’m currently working on **my studies at college**
 
